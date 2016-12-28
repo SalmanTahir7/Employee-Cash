@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Employee Cash",
-    "currentPage": "index.html",
+    "currentPage": "Services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -505,8 +505,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
@@ -548,8 +548,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -593,8 +593,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -613,13 +613,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#1aa1e9"
+              "color": "#2969b0"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#1aa1e9"
+              "background-color": "#2969b0"
             },
             ".link, .dropdown-item": {
-              "color": "#1aa1e9"
+              "color": "#2969b0"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -640,7 +640,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#1aa1e9",
+              "color": "#2969b0",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {

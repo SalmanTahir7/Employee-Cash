@@ -543,15 +543,15 @@ h6,
   color: #ffffff;
 }
 #menu-8 .navbar-toggler {
-  color: #1aa1e9;
+  color: #2969b0;
 }
 #menu-8 .close-icon::before,
 #menu-8 .close-icon::after {
-  background-color: #1aa1e9;
+  background-color: #2969b0;
 }
 #menu-8 .link,
 #menu-8 .dropdown-item {
-  color: #1aa1e9;
+  color: #2969b0;
 }
 #menu-8 .link {
   font-size: 0.9rem;
@@ -583,7 +583,7 @@ h6,
   background: #000000;
 }
 #menu-8 .bg-color.transparent .link {
-  color: #1aa1e9;
+  color: #2969b0;
   transition: none;
 }
 #menu-8 .bg-color.transparent.opened .link {
