@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Employee Cash",
-    "currentPage": "Services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.10",
@@ -51,13 +51,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#1aa1e9"
+              "color": "#2969b0"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#1aa1e9"
+              "background-color": "#2969b0"
             },
             ".link, .dropdown-item": {
-              "color": "#1aa1e9"
+              "color": "#2969b0"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -78,7 +78,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#1aa1e9",
+              "color": "#2969b0",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -100,7 +100,7 @@
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#1aa1e9",
+            "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -146,8 +146,8 @@
           "_anchor": "msg-box5-1",
           "_params": {
             "imageSize": "46",
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingTop": "6",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background-5.jpg",
@@ -328,8 +328,8 @@
           ],
           "_anchor": "testimonials1-6",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "count": 3,
             "showImages": false,
             "showName": true,
@@ -415,7 +415,7 @@
           },
           "text4": "support@employeecash.com",
           "title1": "Links&nbsp;",
-          "text5": "<li>Services&nbsp;</li><li>Mission Statement&nbsp;</li><li>Locations&nbsp;</li>",
+          "text5": "<li><a href=\"Services.html\">Services</a>&nbsp;</li><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li>",
           "text6": "<strong>Contacts</strong><br>Email: support@employeecash.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2098 West Chester Pike, Suite 201<br>Broomall, PA  19008<br>",
           "form": {
             "title": "MESSAGE",
@@ -662,7 +662,7 @@
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#1aa1e9",
+            "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -757,7 +757,7 @@
           },
           "text4": "support@employeecash.com",
           "title1": "Links&nbsp;",
-          "text5": "<li>Services&nbsp;</li><li>Mission Statement&nbsp;</li><li>Locations&nbsp;</li>",
+          "text5": "<li><a href=\"Services.html\">Services</a>&nbsp;</li><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li>",
           "text6": "<strong>Contacts</strong><br>Email: support@employeecash.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2098 West Chester Pike, Suite 201<br>Broomall, PA  19008<br>",
           "form": {
             "title": "MESSAGE",
@@ -843,7 +843,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-41.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
@@ -851,8 +851,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayOpacity": "0",
+            "overlayColor": "#efefef",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -976,13 +976,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#1aa1e9"
+              "color": "#2969b0"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#1aa1e9"
+              "background-color": "#2969b0"
             },
             ".link, .dropdown-item": {
-              "color": "#1aa1e9"
+              "color": "#2969b0"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -1003,7 +1003,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#1aa1e9",
+              "color": "#2969b0",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1025,7 +1025,7 @@
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#1aa1e9",
+            "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1120,7 +1120,7 @@
           },
           "text4": "support@employeecash.com",
           "title1": "Links&nbsp;",
-          "text5": "<li>Services&nbsp;</li><li>Mission Statement&nbsp;</li><li>Locations&nbsp;</li>",
+          "text5": "<li><a href=\"Services.html\">Services</a>&nbsp;</li><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li>",
           "text6": "<strong>Contacts</strong><br>Email: support@employeecash.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2098 West Chester Pike, Suite 201<br>Broomall, PA  19008<br>",
           "form": {
             "title": "MESSAGE",
@@ -1233,13 +1233,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#1aa1e9"
+              "color": "#2969b0"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#1aa1e9"
+              "background-color": "#2969b0"
             },
             ".link, .dropdown-item": {
-              "color": "#1aa1e9"
+              "color": "#2969b0"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -1260,7 +1260,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#1aa1e9",
+              "color": "#2969b0",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1282,7 +1282,7 @@
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#1aa1e9",
+            "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1377,7 +1377,7 @@
           },
           "text4": "support@employeecash.com",
           "title1": "Links&nbsp;",
-          "text5": "<li>Services&nbsp;</li><li>Mission Statement&nbsp;</li><li>Locations&nbsp;</li>",
+          "text5": "<li><a href=\"Services.html\">Services</a>&nbsp;</li><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li>",
           "text6": "<strong>Contacts</strong><br>Email: support@employeecash.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2098 West Chester Pike, Suite 201<br>Broomall, PA  19008<br>",
           "form": {
             "title": "MESSAGE",

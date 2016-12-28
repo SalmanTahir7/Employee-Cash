@@ -424,15 +424,15 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #1aa1e9;
+  color: #2969b0;
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #1aa1e9;
+  background-color: #2969b0;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #1aa1e9;
+  color: #2969b0;
 }
 #menu-0 .link {
   font-size: 0.9rem;
@@ -464,7 +464,7 @@ h6,
   background: #000000;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #1aa1e9;
+  color: #2969b0;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -617,15 +617,15 @@ h6,
   color: #ffffff;
 }
 #menu-f .navbar-toggler {
-  color: #1aa1e9;
+  color: #2969b0;
 }
 #menu-f .close-icon::before,
 #menu-f .close-icon::after {
-  background-color: #1aa1e9;
+  background-color: #2969b0;
 }
 #menu-f .link,
 #menu-f .dropdown-item {
-  color: #1aa1e9;
+  color: #2969b0;
 }
 #menu-f .link {
   font-size: 0.9rem;
@@ -657,7 +657,7 @@ h6,
   background: #000000;
 }
 #menu-f .bg-color.transparent .link {
-  color: #1aa1e9;
+  color: #2969b0;
   transition: none;
 }
 #menu-f .bg-color.transparent.opened .link {
@@ -690,15 +690,15 @@ h6,
   color: #ffffff;
 }
 #menu-l .navbar-toggler {
-  color: #1aa1e9;
+  color: #2969b0;
 }
 #menu-l .close-icon::before,
 #menu-l .close-icon::after {
-  background-color: #1aa1e9;
+  background-color: #2969b0;
 }
 #menu-l .link,
 #menu-l .dropdown-item {
-  color: #1aa1e9;
+  color: #2969b0;
 }
 #menu-l .link {
   font-size: 0.9rem;
@@ -730,7 +730,7 @@ h6,
   background: #000000;
 }
 #menu-l .bg-color.transparent .link {
-  color: #1aa1e9;
+  color: #2969b0;
   transition: none;
 }
 #menu-l .bg-color.transparent.opened .link {
