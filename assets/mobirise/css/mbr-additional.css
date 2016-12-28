@@ -484,6 +484,7 @@ h6,
 }
 #msg-box5-1 P {
   text-align: left;
+  color: #000000;
 }
 #msg-box5-7 H3 {
   text-align: center;
@@ -616,22 +617,22 @@ h6,
   color: #ffffff;
 }
 #menu-f .navbar-toggler {
-  color: #3d8eb9;
+  color: #1aa1e9;
 }
 #menu-f .close-icon::before,
 #menu-f .close-icon::after {
-  background-color: #3d8eb9;
+  background-color: #1aa1e9;
 }
 #menu-f .link,
 #menu-f .dropdown-item {
-  color: #3d8eb9;
+  color: #1aa1e9;
 }
 #menu-f .link {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
 }
 #menu-f .dropdown-item,
 #menu-f .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.975rem;
 }
 #menu-f .link:hover,
 #menu-f .dropdown-item:hover,
@@ -656,7 +657,7 @@ h6,
   background: #000000;
 }
 #menu-f .bg-color.transparent .link {
-  color: #3d8eb9;
+  color: #1aa1e9;
   transition: none;
 }
 #menu-f .bg-color.transparent.opened .link {

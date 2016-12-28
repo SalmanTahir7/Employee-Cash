@@ -139,7 +139,8 @@
               "color": "#1288d3"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box5-1",
@@ -148,10 +149,10 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background-5.jpg",
             "bgColor": "#e3e2e2",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -211,13 +212,13 @@
           "_anchor": "msg-box5-7",
           "_params": {
             "imageSize": "42",
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "6",
+            "paddingBottom": "5",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background-4.jpg",
             "bgColor": "#e3e2e2",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -333,11 +334,11 @@
             "showImages": false,
             "showName": true,
             "showBio": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background-2.jpg",
             "bgColor": "#e3e2e2",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -495,11 +496,11 @@
           "_anchor": "header5-e",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-3.jpg",
             "bgColor": "#e7e7e7",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -539,10 +540,10 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-4.jpg",
             "bgColor": "#dddddd",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -584,10 +585,10 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-5.jpg",
             "bgColor": "#cccccc",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -975,19 +976,19 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#3d8eb9"
+              "color": "#1aa1e9"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#3d8eb9"
+              "background-color": "#1aa1e9"
             },
             ".link, .dropdown-item": {
-              "color": "#3d8eb9"
+              "color": "#1aa1e9"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1002,7 +1003,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#3d8eb9",
+              "color": "#1aa1e9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1202,11 +1203,11 @@
           "_anchor": "header1-o",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sayagata-400px-1.png",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
