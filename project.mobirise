@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Employee Cash",
-    "currentPage": "Services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -211,12 +211,12 @@
           },
           "_anchor": "msg-box5-7",
           "_params": {
-            "imageSize": "42",
+            "imageSize": "47",
             "paddingTop": "6",
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background-4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sayagata-400px-2000x2000-87.png",
             "bgColor": "#e3e2e2",
             "bgColorRadio": false,
             "bgVideo": {
