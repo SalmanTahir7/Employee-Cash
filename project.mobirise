@@ -372,7 +372,7 @@
               "class": "card-img-top",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "#top",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -498,7 +498,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-3.jpg",
             "bgColor": "#e7e7e7",
             "bgColorRadio": false,
             "bgVideo": {
@@ -528,7 +528,8 @@
             },
             ".lead P": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -538,10 +539,10 @@
           "_anchor": "msg-box3-b",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-44.jpg",
             "bgColor": "#dddddd",
             "bgColorRadio": false,
             "bgVideo": {
@@ -573,7 +574,8 @@
             ".lead P": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -586,7 +588,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-32.jpg",
             "bgColor": "#cccccc",
             "bgColorRadio": false,
             "bgVideo": {
@@ -842,16 +844,16 @@
             "paddingTop": 3,
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-41.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
+            "overlayOpacity": "0.5",
             "overlayColor": "#efefef",
             "showTitle": true,
             "showText": true,
@@ -1205,15 +1207,15 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sayagata-400px-1.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-42.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -1221,7 +1223,7 @@
             "showButtons": true
           },
           "title": "<span style=\"letter-spacing: -2px; line-height: 1.1;\">Our Mission Statement</span><br>",
-          "text": "<br>Lower financial stress leads to overall better personal well-being and a more productive employee.  All employees which meet the minimum tenure requirement are eligible for this product, creating an employee environment that offers a financial safety net for employees that have limited access to mainstream credit products for that unexpected, or even planned event, where using available cash or credit may be challenging.  <br>EmployeeCash’s workplace loan focuses on length of service with an employer rather than an individual’s credit score. Our workplace loans are offered in partnership with an employer or a benefits intermediary as a voluntary benefit for employees and can be a tangible part of a financial awareness and education program that an employer may provide to its employees.&nbsp;<br>",
+          "text": "<br>Lower financial stress leads to overall better personal well-being and a more productive employee.  All employees which meet the minimum tenure requirement are eligible for this product, creating an employee environment that offers a financial safety net for employees that have limited access to mainstream credit products for that unexpected, or even planned event, where using available cash <br><span style=\"line-height: 1.5;\">or credit may be challenging.</span><br><span style=\"line-height: 1.5;\">&nbsp;</span><br>EmployeeCash’s workplace loan focuses on length of service with an employer rather than an individual’s credit score. Our workplace loans are offered in partnership with an employer or a benefits intermediary as a voluntary benefit for employees and can be a tangible part of a financial awareness and education program that an employer may provide to its employees.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Find Out about what we have to offer</a> "
         },
         {
